@@ -1,0 +1,6 @@
+{
+  "name": "PHYSICS ROTATIONAL ENERGY – HOTS ASSESSMENT",
+  "description": "Aplikasi Quiz Penilaian Fisika HOTS SMA Fase F materi Energi Kinetik Translasi, Rotasi, dan Total Benda Menggelinding — SMAS Tunas Baru Jin Seung Batam (Mr Jo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
